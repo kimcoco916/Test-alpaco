@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.playwright-mcp/
+.streamlit/secrets.toml
